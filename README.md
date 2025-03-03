@@ -1,4 +1,4 @@
-# 🤖 Projeto Robot
+# 🤖 Teste-Robot-framework
 
 Bem-vindo ao **projeto-robot**! 🚀 Uma aplicação que utiliza o poder do **Robot Framework** para automação de testes. Este projeto foi criado para demonstrar boas práticas em automação de processos e garantir a qualidade em diferentes cenários de teste.
 
