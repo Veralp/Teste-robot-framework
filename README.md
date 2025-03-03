@@ -1,12 +1,12 @@
 # 🤖 Teste-Robot-framework
 
-Bem-vindo ao **projeto-robot**! 🚀 Uma aplicação que utiliza o poder do **Robot Framework** para automação de testes. Este projeto foi criado para demonstrar boas práticas em automação de processos e garantir a qualidade em diferentes cenários de teste.
+Bem-vindo ao **Teste-Robot-framework**! 🚀 Uma aplicação que utiliza o poder do **Robot Framework** para automação de testes. Este projeto foi criado para demonstrar boas práticas em automação de processos e garantir a qualidade em diferentes cenários de teste.
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-O **projeto-robot** é uma automação desenvolvida com o **Robot Framework**, uma ferramenta popular para testes automatizados e RPA (Robotic Process Automation). Ele foi projetado para atender a:
+O **Teste-Robot-framework** é uma automação desenvolvida com o **Robot Framework**, uma ferramenta popular para testes automatizados e RPA (Robotic Process Automation). Ele foi projetado para atender a:
 
 - 🧪 Testes funcionais de aplicações web.
 - 🔄 Execução de tarefas repetitivas.
